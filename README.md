@@ -98,7 +98,7 @@ This project does **not** aim to:
 These constraints are intentional to maintain system reliability and explainability.
 
 ## High-Level Architecture
-
+```text
 User Query
    ↓
 Query Embedding
@@ -112,9 +112,9 @@ Prompt Assembly (Context + Rules)
 LLM Answer Generation
    ↓
 Final Answer + Source Citations
-
+```
 ## Project Structure
-
+```text
 enterprise-rag-knowledge-bot/
 ├── app/
 │   ├── api/          # API routes and request handling
@@ -129,7 +129,7 @@ enterprise-rag-knowledge-bot/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
+```
 ## Data Disclaimer
 
 This project uses a **mix of fictional and publicly available documents** to simulate a realistic company knowledge base.

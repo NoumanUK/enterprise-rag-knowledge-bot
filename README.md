@@ -1,6 +1,6 @@
-#Enterprise RAG-Based Knowledge Bot
+# Enterprise RAG-Based Knowledge Bot
 
-##Overview
+## Overview
 
 Organizations store critical internal knowledge across documents such as policies, SOPs, onboarding guides, and internal manuals. As document volume grows, employees struggle to find accurate information quickly using traditional keyword-based search.
 

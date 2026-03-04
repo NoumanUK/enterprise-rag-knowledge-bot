@@ -1,1 +1,5 @@
 fastapi
+pypdf
+tiktoken
+sentence-transformers
+faiss-cpu
